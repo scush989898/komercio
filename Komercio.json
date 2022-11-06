@@ -1,0 +1,187 @@
+[
+  {
+    "model": "accounts.account",
+    "pk": "1b4d2ff3-557e-45ca-8b01-5cb618b1b4ad",
+    "fields": {
+      "password": "pbkdf2_sha256$390000$kSm3WcALVK55p0nDLc8N6i$fLWv6q3SPUii/OE0lGkoxf+BHUylMN6VuJU0lJ7FrsQ=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-10-19T23:26:38.549Z",
+      "username": "comprador",
+      "first_name": "compra",
+      "last_name": "dor",
+      "is_seller": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.account",
+    "pk": "31201d8c-94b8-47b6-962e-9ce08e2e79d6",
+    "fields": {
+      "password": "pbkdf2_sha256$390000$Hw5Tl4kzDFiypOpyyhzwn9$7AMwXdW9kHV4zsqmJRxiEh0UPRQ9JeUZuG/AsTTF/B8=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-10-20T02:58:12.207Z",
+      "username": "poguinho",
+      "first_name": "ulti",
+      "last_name": "mo",
+      "is_seller": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.account",
+    "pk": "3bdb8a29-a381-4249-8b61-2d4201dcaa8c",
+    "fields": {
+      "password": "pbkdf2_sha256$390000$GAtR67rO4UONkianu3eEVm$CcHqo+tQ4X+0RzBaEWkbw0BC8UCgrwblkUyvy0u6CaQ=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-10-20T00:05:50.330Z",
+      "username": "ultimo",
+      "first_name": "ulti",
+      "last_name": "mo",
+      "is_seller": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.account",
+    "pk": "3d57684c-fe43-41db-aa1e-cd69cb43a360",
+    "fields": {
+      "password": "pbkdf2_sha256$390000$3uJAMVolkt7CfWmfUXVjSi$D+NySw1+1+fcyLJ+zNtCXSaeGciJc6nakEBNaC5azrY=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-10-20T23:44:20.358Z",
+      "username": "teste2010222233",
+      "first_name": "teste201033",
+      "last_name": "teste2010",
+      "is_seller": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.account",
+    "pk": "99637f52-25e5-4daf-b52b-a9fc2610436b",
+    "fields": {
+      "password": "pbkdf2_sha256$390000$UETywoZW6FGKFZCjSE3X9G$z7UAEtOFyAM9qJ0eBd6qgHSKUIj1Fonsd9iI1xuYkqw=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-10-20T23:37:53.916Z",
+      "username": "teste20102222",
+      "first_name": "teste2010",
+      "last_name": "teste2010",
+      "is_seller": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.account",
+    "pk": "cc178a41-f067-4e77-846e-eff806995d3c",
+    "fields": {
+      "password": "pbkdf2_sha256$390000$pyqdLDnw4ilSVuZ5h2wf4C$/QhKl3vSIQ0kX1ef03DNUhYP7evQc5D5kYDkWp50+48=",
+      "last_login": null,
+      "is_superuser": true,
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-10-19T23:24:38.832Z",
+      "username": "gohan",
+      "first_name": "gohan",
+      "last_name": "sam",
+      "is_seller": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.account",
+    "pk": "d2701122-0ddf-42db-a34a-4d6f665b59fd",
+    "fields": {
+      "password": "pbkdf2_sha256$390000$HUbpPf3gXIJwIvCU4uEfAh$kOdvSm9IpAsU0gNHPTrh/ffYKxWQx2TIBnyTeXk5x08=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-10-20T23:32:15.533Z",
+      "username": "teste2010",
+      "first_name": "teste2010",
+      "last_name": "teste2010",
+      "is_seller": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.account",
+    "pk": "ef3da160-f187-4134-bedc-f0954b29e654",
+    "fields": {
+      "password": "pbkdf2_sha256$390000$7t5RNpFpRvykEcI307ZqgK$DN7Q9qN6diLwo+z5FjzyWMScuJsla6pTla/deVPp3wE=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-10-19T23:27:25.024Z",
+      "username": "zezao",
+      "first_name": "pjota22",
+      "last_name": "dor",
+      "is_seller": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "4e44e2ce-08a7-49a6-8697-05c78911bbb7",
+    "fields": {
+      "description": "geladeira maneira",
+      "price": 900.0,
+      "quantity": 9,
+      "is_active": true,
+      "seller": "ef3da160-f187-4134-bedc-f0954b29e654"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "eb9bcdce-ef36-4e5e-b58a-a82adea71ee6",
+    "fields": {
+      "description": "poguinho2",
+      "price": 100.99,
+      "quantity": 12,
+      "is_active": true,
+      "seller": "ef3da160-f187-4134-bedc-f0954b29e654"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "f05c1cc8-80e5-4443-9aa0-8fab028c7c12",
+    "fields": {
+      "description": "Smartband XYZ 3.0",
+      "price": 100.99,
+      "quantity": 12,
+      "is_active": true,
+      "seller": "ef3da160-f187-4134-bedc-f0954b29e654"
+    }
+  }
+]

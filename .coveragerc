@@ -1,0 +1,11 @@
+[run]
+source = .
+omit = 
+    venv/*
+    _komercio/*
+    manage.py
+    */tests/*
+    */migrations/*
+
+[report]
+show_missing = True
