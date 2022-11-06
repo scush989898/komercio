@@ -49,6 +49,11 @@ pip install -r requirements.txt
 ./manage.py migrate
 ```
 
+### Executando o servidor
+```
+python manage.py runserver
+```
+
 ## Documentação da API
 
 [Link da Documentação](https://komerciokenziem5.herokuapp.com/api/docs/) <br>
